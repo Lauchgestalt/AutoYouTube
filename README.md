@@ -5,7 +5,7 @@ Automatically downloading Twitch Clips, merging them to one video and uploading 
 
 - Make sure you have all the pip modules installed for both bot.py and uploadVideo.py.
 - I did not provide a requirements.txt so just don't be lazy and google the imports if you don't know the module names.
-- Make sure you have the msedgedriver in your PATH/the root directory or replace the driver initialization if you plan on using a different Webengine ```(bot.py ln 26)
+- Make sure you have the msedgedriver in your PATH/the root directory or replace the driver initialization if you plan on using a different Webengine ```(bot.py ln 26)```
 - That's basically it.
 
 ## Usage
