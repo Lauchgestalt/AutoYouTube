@@ -1,0 +1,6 @@
+credentials.json
+.DS_Store
+clips/*
+output/*
+msedgedriver*
+__pycache__
